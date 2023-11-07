@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T15:40:14.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LlT7D2wyKYMuX0_KGcJs" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T15:41:54.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mplDrAXXpOqz_nrMB0b1" version="22.0.8" type="github">
   <diagram name="Page-1" id="VsmWE-DmiUkpjAb7zMRD">
-    <mxGraphModel dx="1266" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
         <mxCell id="QH5Kmpn6BxqlCqavOY-P-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="-340" width="82.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="6SUtxSul8Cp7zznhZvQq-1" value="restaurant food delivery app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="204" y="-440" width="420" height="30" as="geometry" />
+        <mxCell id="6SUtxSul8Cp7zznhZvQq-1" value="Restaurant Food Delivery App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=20;fontColor=#261FFF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-410" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
